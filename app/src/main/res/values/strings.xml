@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppContact</string>
+    <string name="person1">William</string>
+    <string name="person2">Alberto</string>
+    <string name="person3">Daniel</string>
+    <string name="person4">Mateo</string>
+    <string name="person5">Marcos</string>
+    <string name="person6">Gael</string>
+
+    <string name="titulo">Contactos</string>
+    <string name="listaDetalles">Lista de contactos</string>
+    <string name="btnCall">Llamar</string>
+    <string name="btnEmail">Enviar correo</string>
+</resources>
